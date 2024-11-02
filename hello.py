@@ -1,6 +1,4 @@
-import numpy
-
-def hello_world():
-  arr = np.array([1])
-  return "Hello World"
-
+greeting = "Hello"
+name = " World!"
+greeting = greeting + name
+print(greeting)
